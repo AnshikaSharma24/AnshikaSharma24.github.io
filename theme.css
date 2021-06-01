@@ -25,11 +25,11 @@ header .container{
 }
 header .container1{
     position: fixed;
-    top:4%;left:35.5%;
+    top:4%;left:36%;
     height: 410px;
     width:390px;
     background-color: #7ab0d4;
-    border:20px solid #ebebeb;;
+    border:18px solid #ebebeb;;
     margin-top: 100px;
 }
 img{
