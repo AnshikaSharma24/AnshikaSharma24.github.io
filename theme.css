@@ -1,0 +1,71 @@
+@font-face {
+    font-family: "nexa-light";
+    src: url("../../assets/Nexa-Light.otf"); 
+}
+  @font-face {
+    font-family: "nexa-bold";
+    src: url("../../assets/Nexa-Bold.otf"); 
+}
+header{
+    width:100%;
+    position: fixed;
+    padding: 2rem 1rem;
+    background-color: black;
+    z-index: 1000;
+    height: 600px;
+}
+header .container{
+  display:flex;
+  justify-content: space-between;
+  width:400px;
+  height: 500px;
+  background-color: white;
+  border:20px solid #ebebeb;;
+  margin-top: 10px;
+}
+header .container1{
+    position: fixed;
+    top:4%;left:35%;
+    height: 410px;
+    width:399px;
+    background-color: #7ab0d4;
+    border:20px solid #ebebeb;;
+    margin-top: 100px;
+}
+img{
+    width:150px;
+    height:50px
+}
+.container1 h1{
+    text-align: center;
+    font-size: 2rem;
+    line-height: 1.8rem;
+    color: #2a2d3e;
+    margin-top: 10px;
+}
+.container1 p{
+    font-family: "nexa-light";
+    color: #2a2d3e;
+    font-size: 1.4rem;
+    line-height: 2.0rem;
+    margin-left: 10px;    
+}
+.button-white {
+    background-color: white;
+    height: 50px;
+    width: 335px;
+    margin-left: 10px;
+    margin-top: 10px;
+}    
+.button-blue {
+    background-color:  #2a2d3e;
+    height: 50px;
+    width: 120px;
+    margin-left: 10px;
+    margin-top: 10px;
+    font-size: 28px;
+    color: white;
+    margin-left: 120px;
+    text-align: center;
+    justify-content: center;
+}    

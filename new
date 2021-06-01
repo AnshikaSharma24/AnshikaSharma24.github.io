@@ -1,0 +1,47 @@
+<div class="nav">              
+            <img src="https://s3.ap-south-1.amazonaws.com/appdev.konfinity.com/css/tasks/Logo.jpg"style="width:170px">
+        </div>
+        <div class="nav"></div>             
+    
+        <div class="nav"></div> 
+       <div class="hamIcon">
+          <h1>&#9776;</h1>
+       </div>   
+       <div class="nav1">
+           <h1>Find Affordable Healthcare</h1>
+           <p>Join the thousands of others who have exercised their rights to quality healthcare at a price you can afford</p>
+       </div>   
+       h1{
+    text-align: center;
+    font-size: 1.7rem;
+    line-height: 2rem;
+    font-family: 'Nexa Bold';
+}
+p{
+  font-size: .9rem;
+  font-family: "nexa-light";
+  line-height: 1.3rem;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  letter-spacing: .05rem;
+  font-weight: 600; 
+}
+.nav {
+    background: white;
+    padding: .625rem 2%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: left;
+    box-shadow: 0 0.1rem 0.5rem 0 rgba(0, 0, 0, 0.51);
+    position: relative;
+    z-index: 2; 
+} 
+.nav .hamIcon {
+    justify-content: right;
+    text-align: right;
+    width: 50%; }   
+    button
+    b
+    #2a2d3e
+    box#7ab0d4
