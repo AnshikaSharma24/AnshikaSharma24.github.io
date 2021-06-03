@@ -6,21 +6,18 @@
     font-family: "nexa-bold";
     src: url("../../assets/Nexa-Bold.otf"); 
 }
-header{
-    width:100%;
-    height: 600px;
-}
- .nav{
+nav{
   display:flex;
   justify-content: space-between;
-  width:400px;
-  height: 500px;
-  background-color: black;
-  border:10px solid #ebebeb;;
+  width:100%;
+  height: 60px;
+  background-color: white;
+  border:5px solid #ebebeb;;
   margin-top: 10px;
 }
 .container1{
     background-color: #aec2ea;
+    border:5px solid #ebebeb;;
    align-self: center;
 }
 img{
@@ -39,6 +36,7 @@ img{
     width:70%;
     border:2px solid #76b39d;
     margin: 10px;
+    border:5px solid #ebebeb;;
 }
 .form{
     margin:0;
